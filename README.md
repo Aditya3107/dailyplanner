@@ -48,4 +48,4 @@ Note: each device keeps its own data — there is no sync.
 
 ## How the streak works
 
-A day counts toward the streak when its completion percentage (checked leaf items ÷ planned leaf items) meets the target when the day is closed or rolls over. Missing a day or finishing below target resets the streak.
+A day counts toward the streak when its completion percentage (checked leaf items ÷ planned leaf items) meets the target when the day is closed or rolls over. Weekends are free: Saturdays and Sundays never break the streak and skipping them carries it from Friday to Monday, and hitting the target on a weekend still adds to it. Missing a weekday or finishing below target resets the streak.
