@@ -10,21 +10,21 @@ Made with Claude
 
 ## Features
 
-- **Plan your day** — add goals, break each into tasks and micro-steps. Entries save on Enter or simply by tapping away (mobile-friendly).
-- **Today view** — progress ring, three-level checklist. Checking a parent checks all its children; parents auto-complete when all children are done.
-- **Celebrations** — ribbons fly when you complete a goal or hit your daily target (paw prints in the Kitty theme).
-- **Streak counter** — counts consecutive days at or above the target (default 80%, adjustable).
-- **Stats** — 14-day completion chart, planned vs. done (last 7 days), time-of-day productivity, and a 4-week streak calendar.
-- **Review** — end-of-day summary per goal; "Close the day" logs it to history.
-- **Settings (gear icon)** — text size (85–130%), 6 fonts (incl. Handwritten, Pixel, Groovy), 6 themes (Midnight, Daylight, Ocean, Synthwave, Bubblegum, Kitty), and a full reset with confirmation popup.
+- **Plan your day**: add goals, break each into tasks and micro-steps. Entries save on Enter or simply by tapping away (mobile-friendly).
+- **Today view**: progress ring, three-level checklist. Checking a parent checks all its children; parents auto-complete when all children are done.
+- **Celebrations**": ribbons fly when you complete a goal or hit your daily target (paw prints in the Kitty theme).
+- **Streak counter**: counts consecutive days at or above the target (default 80%, adjustable).
+- **Stats**: 14-day completion chart, planned vs. done (last 7 days), time-of-day productivity, and a 4-week streak calendar.
+- **Review**: end-of-day summary per goal; "Close the day" logs it to history.
+- **Settings (gear icon)**: text size (85–130%), 6 fonts (incl. Handwritten, Pixel, Groovy), 6 themes (Midnight, Daylight, Ocean, Synthwave, Bubblegum, Kitty), and a full reset with confirmation popup.
 
-All data is stored locally in the browser (localStorage) — no account, no server. Data is tied to the browser and file location/URL it runs from.
+All data is stored locally in the browser (localStorage), no account, no server. Data is tied to the browser and file location/URL it runs from.
 
 ## Files
 
-- `github-pages/` — hosting package (`index.html` + `apple-touch-icon.png`)
-- `icon/` — app icon as `.ico` (Windows shortcut) and `.png`
-- `export/` — intermediate build sources
+- `github-pages/`: hosting package (`index.html` + `apple-touch-icon.png`)
+- `icon/`: app icon as `.ico` (Windows shortcut) and `.png`
+- `export/`: intermediate build sources
 
 ## Run it on Windows (as an app window)
 
