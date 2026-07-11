@@ -12,7 +12,7 @@ Made with Claude
 
 - **Plan your day**: add goals, break each into tasks and micro-steps. Entries save on Enter or simply by tapping away (mobile-friendly).
 - **Today view**: progress ring, three-level checklist. Checking a parent checks all its children; parents auto-complete when all children are done.
-- **Celebrations**": ribbons fly when you complete a goal or hit your daily target (paw prints in the Kitty theme).
+- **Celebrations**: ribbons fly when you complete a goal or hit your daily target (paw prints in the Kitty theme).
 - **Streak counter**: counts consecutive days at or above the target (default 80%, adjustable).
 - **Stats**: 14-day completion chart, planned vs. done (last 7 days), time-of-day productivity, and a 4-week streak calendar.
 - **Review**: end-of-day summary per goal; "Close the day" logs it to history.
@@ -34,7 +34,7 @@ All data is stored locally in the browser (localStorage), no account, no server.
    "C:\Program Files\Google\Chrome\Application\chrome.exe" --app="file:///C:/Apps/DailyPlannerWidget.html" --window-size=440,760
    ```
 3. Optional: Properties → Change Icon → browse to `icon/Daily Planner.ico`
-4. Pin to taskbar. Don't move the file afterwards — your data is tied to its path.
+4. Pin to taskbar. Don't move the file afterwards as your data is tied to its path.
 
 ## Run it on iPhone
 
